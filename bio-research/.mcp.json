@@ -22,10 +22,7 @@
     },
     "biosciences-mcp": {
       "type": "http",
-      "url": "https://biosciences-mcp.fastmcp.app/mcp",
-      "headers": {
-        "Authorization": "Bearer ${BIOSCIENCES_API_KEY}"
-      }
+      "url": "https://biosciences-mcp.fastmcp.app/mcp"
     },
     "synapse": {
       "type": "http",
